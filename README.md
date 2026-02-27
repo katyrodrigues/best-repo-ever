@@ -1,1 +1,1 @@
-# best-repo-ever
+git clone <URL> best-repo-ever

@@ -1,3 +1,3 @@
 git clone https://github.com/katyrodrigues/best-repo-ever
 
-Meu primeiro teste de branch
+Este é meu primeiro teste de conflito
